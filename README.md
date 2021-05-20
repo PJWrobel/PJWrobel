@@ -1,6 +1,7 @@
 Hello, My name is Paul Wrobel (26) currently studying CS/SWE in my free time.
 
 Languages: C/c++, java, python, Go, assembly (x86, ARM), bash, lisp, haskell, SQL
+
 Skills: network programming, machine learning, embedded, gamedev (3d/physics engines), openGL/webGL, openCL, wasm, Spring, QT
 
 If you would like to collaborate on any project, please email me first.
